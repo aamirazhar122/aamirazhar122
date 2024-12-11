@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+ 🔭 I am currently learning Agentic AI with Langchain, LngGraph and Python
 <!--
 **aamirazhar122/aamirazhar122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
